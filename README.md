@@ -4,7 +4,7 @@
 In order to build an interactive web application, you need a way to take in information from your user. Ruby makes this very easy: enter **puts and gets**.
 
 ##puts
-`puts` is a method that works very much like `print`. We have used it in previous labs as it helps to present things to a user through the terminal. We use `puts` because it adds a new line after whatever it prints, unlike print. This makes whatever you're presenting to the user much easier to read.
+`puts` is a method that works very much like `print`. We have used it in previous labs as it helps to present things to a user through the terminal. We use `puts` because it adds a new line after whatever it prints, unlike `print`. This makes whatever you're presenting to the user much easier to read.
 
 	puts "Hello world!"
 	puts "It's a beautiful day"
