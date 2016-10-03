@@ -5,7 +5,7 @@ name = gets.chomp
 
 puts "Hi #{name}! I hope you're well."
 
-#Run this code before adding to it.
+#Run this code from the command line by typing `ruby lab.rb` - make sure you are in the correct directory.
 #Take a look at how it works, and then add more questions.
 #Create a bot that can have a full and interactive conversation
 #with the user.
